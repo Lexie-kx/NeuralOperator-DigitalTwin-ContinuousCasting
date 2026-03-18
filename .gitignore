@@ -1,0 +1,13 @@
+# 忽略极其庞大的数据文件
+data/
+
+# 忽略训练好的模型仙丹
+models/*.pth
+
+# 忽略所有的图片输出结果
+results/*.png
+
+# 忽略 Python 缓存和虚拟环境
+__pycache__/
+.idea/
+.venv/
